@@ -1,4 +1,5 @@
 # Authentise
+PreCondition: Java(1.8 and above version) ,Eclipse and Maven need to be installed and Chrome driver plugin and Other browser plugin, Testng plugin need to be installed
 Calculator conversion Automation Testcases
 Please follow below steps to execute this automation code.
 Step1: Clone the project in eclipse IDE
